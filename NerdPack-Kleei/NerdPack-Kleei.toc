@@ -1,0 +1,34 @@
+## Title: |r[|cfffffffFKleei|r] Custom Routines
+## Notes: Custom Routines for NerdPack
+## Interface: 80100
+## Author: Kleei
+## Dependencies: NerdPack, NerdPack-Protected
+
+
+core.lua
+condition.lua
+unit.lua
+area.lua
+fakeunits.lua
+equip_sets_table.lua
+
+
+
+
+
+rotations\rogue\outlaw.lua
+rotations\rogue\subtlety.lua 
+rotations\monk\windwalker.lua
+
+rotations\warrior\fury.lua
+rotations\hunter\mm.lua 
+rotations\deathknight\unholy.lua
+rotations\deathknight\blood.lua
+
+rotations\demonhunter\havoc.lua
+rotations\paladin\protection.lua
+rotations\paladin\retribution.lua
+rotations\mage\fire.lua
+rotations\shaman\enhancement.lua
+rotations\druid\restoration.lua
+rotations\druid\feral.lua

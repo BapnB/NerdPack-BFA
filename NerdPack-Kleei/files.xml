@@ -1,0 +1,34 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/
+..\FrameXML\UI.xsd">
+
+    <!-- Core -->
+	<Script file="core\core.lua" />
+	<Script file="core\condition.lua" />
+	<Script file="core\unit.lua" />
+	<Script file="core\area.lua" />
+	<Script file="core\fakeunits.lua" />
+	<Script file="core\equip_sets_table.lua" />
+
+	<!-- classes -->
+	<Script file="classes\rogue\outlaw.lua" />
+	<Script file="classes\rogue\subtlety.lua" /> 
+	<Script file="classes\monk\windwalker.lua" />
+	<Script file="classes\warrior\arms.lua" />	
+	<Script file="classes\warrior\fury.lua" />
+	<Script file="classes\hunter\mm.lua" /> 
+	<Script file="classes\deathknight\unholy.lua" />
+	<Script file="classes\deathknight\blood.lua" />
+	<Script file="classes\deathknight\frost.lua" />	
+	<Script file="classes\demonhunter\havoc.lua" />
+	<Script file="classes\paladin\protection.lua" />
+	<Script file="classes\paladin\retribution.lua" />
+	<Script file="classes\mage\fire.lua" />
+	<Script file="classes\shaman\enhancement.lua" />
+	<Script file="classes\druid\restoration.lua" />
+	<Script file="classes\druid\feral.lua" />
+	
+	<!--
+	<Script file="classes\druid\guardian.lua" />
+	-->
+
+</Ui>
